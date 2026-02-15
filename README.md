@@ -34,16 +34,16 @@ Interpolation improves pointer smoothness.
 
 Tech Stack:
 
-Python
-OpenCV
-MediaPipe
-PyAutoGUI
+Python,
+OpenCV,
+MediaPi,pe
+PyAutoGU,I
 NumPy
 
 
 Future Improvements:
 
-Scroll gesture implementation
-Custom gesture configuration
-ML-based adaptive gesture sensitivity
+Scroll gesture implementation,
+Custom gesture configuration,
+ML-based adaptive gesture sensitivity,
 Cross-platform packaging
